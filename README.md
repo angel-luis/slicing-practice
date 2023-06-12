@@ -1,6 +1,6 @@
 ## Overview
 
-Some exercises for practicing slicing syntax.
+Some exercises for practicing slicing syntax in Python.
 
 ## Usage
 
